@@ -1,0 +1,3 @@
+Java JDK 8+
+MySQL Server
+MySQL JDBC Connector (mysql-connector-java)
